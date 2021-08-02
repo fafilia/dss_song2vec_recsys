@@ -1,0 +1,15 @@
+spherecluster-0.1.7.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+spherecluster-0.1.7.dist-info/LICENSE,sha256=fWeClFvR8bsQwXJPnKA3zFRow-XaRpC1sUOILWwPeoA,1077
+spherecluster-0.1.7.dist-info/METADATA,sha256=s_Im-_wvM6GHRo7AWzKPS_XUIP9OLB3qeKB5UiIM1Fo,390
+spherecluster-0.1.7.dist-info/RECORD,,
+spherecluster-0.1.7.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spherecluster-0.1.7.dist-info/WHEEL,sha256=MYFsq5fFBwF_oyJgrOoFmYYB1K6Sw7MxY-0897ZLbdM,92
+spherecluster-0.1.7.dist-info/top_level.txt,sha256=_ZK3OqOvefzYr8GCks0fu7nylcTWUfTBm610HD-YicY,14
+spherecluster/__init__.py,sha256=lKQd2973113Xxl7AUugkSiYJl1ByiK4WHZoXiyZ5SWk,244
+spherecluster/__pycache__/__init__.cpython-37.pyc,,
+spherecluster/__pycache__/spherical_kmeans.cpython-37.pyc,,
+spherecluster/__pycache__/util.cpython-37.pyc,,
+spherecluster/__pycache__/von_mises_fisher_mixture.cpython-37.pyc,,
+spherecluster/spherical_kmeans.py,sha256=X2G1Dz9o_Qekx1T8OoJmM1ImjLy8tl_rv0Lj8IANyBc,11665
+spherecluster/util.py,sha256=v6jR3U0fiGVDrTkfZPouIZOvfvijbQ_vY15K518ayDY,1798
+spherecluster/von_mises_fisher_mixture.py,sha256=EzoSwh_e_Gk2dEUbt7PDoM_t-QuB_-YBWCEzhqrYJYE,31432
